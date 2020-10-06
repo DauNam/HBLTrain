@@ -1,1 +1,1 @@
-abc
+alert("sss");
